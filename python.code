@@ -1,1 +1,10 @@
+To check the greater or less numbers 
+d = 30
+r = 30
 
+if d<r :
+  print("d is less than r")
+elif d==r:
+  print("d is equal to r")
+else:
+  print("d is greater than r")
